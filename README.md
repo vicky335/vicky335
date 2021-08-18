@@ -28,7 +28,7 @@
 
 <h3 align="center">GitHub Trophies</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicky335&theme=onedark" alt="vicky335" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicky335&theme=onedark&column=8&margin-w=2&margin-h=2&no-frame=true" alt="vicky335" /></a>
 </p>
 
 
