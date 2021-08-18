@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vicky335&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **vicky335/vicky335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
